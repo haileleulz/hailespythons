@@ -3,8 +3,8 @@
 
 numbers = []
 
-for x in range(0,10):
-    num = int(input(f"Put your first number {x + 1}: "))
+for x in range(1, 11):
+    num = int(input(f"please put your {x} number : "))
     numbers.append(num)
 print("The numbers are:")
 
