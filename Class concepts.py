@@ -579,7 +579,6 @@
 #     def skills(self):
 #         print("Gardening, programming")
 #
-#
 # class Mother:
 #     def skills(self):
 #         print("cooking, Planning")
