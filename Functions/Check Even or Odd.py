@@ -1,5 +1,4 @@
-# Write a function `is_even_or_odd` that takes a number and returns "Even" if
-# the number is even, and "Odd" if the number is odd.
+# Write a function is_even_or_odd that takes a list and returns Even the number is even, and "Odd" if the number is odd.
 
 def is_even_or_odd(numb):
     if numb % 2 == 0:
