@@ -13,7 +13,7 @@ class Car:
 
     @staticmethod
     def classic_or_not(year):
-        if year < 1980:
+        if year < 1999:
             return "Classic"
         return "Not Classic"
 
