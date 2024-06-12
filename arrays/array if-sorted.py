@@ -18,7 +18,7 @@
 # print(x)
 
 def check_sorted(numb):
-    numb = numb.split(",")
+    numb = list(map(int, numb.split(",")))    
     is_sorted = True
     if not numb:
         return False
